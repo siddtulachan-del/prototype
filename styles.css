@@ -226,7 +226,7 @@ body {
 .nav-item.logout:hover { color: #FF6B3D; background: rgba(232,68,10,0.08); }
 
 .main-content { flex: 1; padding: 32px; background: var(--bg); overflow-y: visible; }
-.page-title { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; color: var(--text); margin-bottom: 4px; }
+.page-title { font-family: 'Inter', sans-serif; font-size: 22px; font-weight: 600; color: var(--text); margin-bottom: 4px; letter-spacing: -0.3px; }
 .page-sub { font-size: 13.5px; color: var(--text-light); margin-bottom: 28px; }
 
 /* ── CARDS ── */
