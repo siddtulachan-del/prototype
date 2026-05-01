@@ -248,14 +248,7 @@ body {
 .stat-card.yellow { border-left-color: var(--warning); }
 .stat-label { font-size: 12px; font-weight: 600; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
 
-/* ── STAT VALUE: changed to Space Grotesk, black ── */
-.stat-value {
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 28px;
-  font-weight: 700;
-  color: var(--text);
-  letter-spacing: -1px;
-}
+.stat-value { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; color: var(--text); }
 
 .stat-note { font-size: 12px; color: var(--text-light); margin-top: 4px; }
 
